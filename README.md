@@ -1,2 +1,2 @@
 # Samplegit
-This is one of the Sample project
+This is one of the Sample projects Readme file
